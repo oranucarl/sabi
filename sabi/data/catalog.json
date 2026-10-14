@@ -1,0 +1,303 @@
+{
+  "_about": "Hand-curated pathways. Syllabus order follows the WAEC/NECO senior secondary syllabuses. Resources are free (or free to audit) and chosen for credibility. Keep links to official pages; review before each release.",
+  "subjects": {
+    "Mathematics": {
+      "aliases": [
+        "math",
+        "maths",
+        "algebra",
+        "geometry",
+        "trigonometry",
+        "calculus",
+        "statistics",
+        "arithmetic"
+      ],
+      "syllabus": [
+        "Number bases",
+        "Fractions, decimals and approximations",
+        "Indices",
+        "Logarithms",
+        "Sets",
+        "Algebraic expressions",
+        "Linear equations",
+        "Simultaneous equations",
+        "Quadratic equations",
+        "Variation",
+        "Inequalities",
+        "Sequences and series",
+        "Plane geometry",
+        "Mensuration",
+        "Trigonometry",
+        "Coordinate geometry",
+        "Statistics",
+        "Probability",
+        "Differentiation",
+        "Integration"
+      ],
+      "resources": [
+        "khan",
+        "waec-elearning",
+        "openstax",
+        "phet"
+      ],
+      "opportunities": [
+        "jamb",
+        "waec",
+        "alx",
+        "3mtt"
+      ]
+    },
+    "Physics": {
+      "aliases": [
+        "physics",
+        "motion",
+        "force",
+        "electricity",
+        "waves",
+        "energy",
+        "optics",
+        "magnetism"
+      ],
+      "syllabus": [
+        "Measurements and units",
+        "Motion",
+        "Forces and Newton's laws",
+        "Work, energy and power",
+        "Heat and temperature",
+        "Waves",
+        "Light and optics",
+        "Sound",
+        "Electrostatics",
+        "Current electricity",
+        "Magnetism",
+        "Electromagnetic induction",
+        "Atomic and nuclear physics"
+      ],
+      "resources": [
+        "khan",
+        "phet",
+        "openstax",
+        "mitocw"
+      ],
+      "opportunities": [
+        "jamb",
+        "waec"
+      ]
+    },
+    "Chemistry": {
+      "aliases": [
+        "chemistry",
+        "atom",
+        "molecule",
+        "reaction",
+        "acid",
+        "mole",
+        "organic"
+      ],
+      "syllabus": [
+        "Separation techniques",
+        "Atomic structure",
+        "Periodic table",
+        "Chemical bonding",
+        "Stoichiometry and the mole",
+        "States of matter",
+        "Acids, bases and salts",
+        "Redox reactions",
+        "Electrolysis",
+        "Rates of reaction",
+        "Chemical equilibrium",
+        "Organic chemistry"
+      ],
+      "resources": [
+        "khan",
+        "phet",
+        "openstax",
+        "waec-elearning"
+      ],
+      "opportunities": [
+        "jamb",
+        "waec"
+      ]
+    },
+    "Biology": {
+      "aliases": [
+        "biology",
+        "cell",
+        "genetics",
+        "ecology",
+        "photosynthesis",
+        "respiration",
+        "anatomy"
+      ],
+      "syllabus": [
+        "Living things and classification",
+        "Cell structure",
+        "Nutrition",
+        "Transport in organisms",
+        "Respiration",
+        "Excretion",
+        "Reproduction",
+        "Genetics and heredity",
+        "Evolution",
+        "Ecology"
+      ],
+      "resources": [
+        "khan",
+        "openstax",
+        "waec-elearning"
+      ],
+      "opportunities": [
+        "jamb",
+        "waec"
+      ]
+    },
+    "English": {
+      "aliases": [
+        "english",
+        "grammar",
+        "essay",
+        "comprehension",
+        "writing",
+        "literature",
+        "vocabulary"
+      ],
+      "syllabus": [
+        "Parts of speech",
+        "Sentence structure",
+        "Tenses and concord",
+        "Vocabulary and idioms",
+        "Comprehension",
+        "Summary writing",
+        "Letter writing",
+        "Essay writing",
+        "Oral English"
+      ],
+      "resources": [
+        "khan",
+        "waec-elearning"
+      ],
+      "opportunities": [
+        "jamb",
+        "waec"
+      ]
+    },
+    "Computing": {
+      "aliases": [
+        "computer",
+        "programming",
+        "coding",
+        "python",
+        "javascript",
+        "html",
+        "software",
+        "data",
+        "spreadsheet",
+        "excel",
+        "web"
+      ],
+      "syllabus": [
+        "Computer basics and files",
+        "Spreadsheets",
+        "Web basics (HTML and CSS)",
+        "Programming fundamentals",
+        "Variables, loops and functions",
+        "Data structures",
+        "Databases and SQL",
+        "Web development",
+        "Data analysis",
+        "Version control with Git"
+      ],
+      "resources": [
+        "freecodecamp",
+        "cs50",
+        "khan",
+        "mslearn"
+      ],
+      "opportunities": [
+        "alx",
+        "3mtt",
+        "freecodecamp-cert"
+      ]
+    }
+  },
+  "resources": {
+    "khan": {
+      "title": "Khan Academy",
+      "url": "https://www.khanacademy.org",
+      "kind": "Free lessons and practice",
+      "offline": "Works on low bandwidth; videos can be skipped for articles"
+    },
+    "waec-elearning": {
+      "title": "WAEC e-Learning Toolkit",
+      "url": "https://waeconline.org.ng/e-learning/",
+      "kind": "Official past-question guidance and examiner comments"
+    },
+    "openstax": {
+      "title": "OpenStax textbooks",
+      "url": "https://openstax.org",
+      "kind": "Free peer-reviewed textbooks (PDF download for offline use)"
+    },
+    "phet": {
+      "title": "PhET Interactive Simulations",
+      "url": "https://phet.colorado.edu",
+      "kind": "Free science and maths simulations (downloadable)"
+    },
+    "mitocw": {
+      "title": "MIT OpenCourseWare",
+      "url": "https://ocw.mit.edu",
+      "kind": "Free university course materials"
+    },
+    "freecodecamp": {
+      "title": "freeCodeCamp",
+      "url": "https://www.freecodecamp.org/learn",
+      "kind": "Free interactive coding curriculum"
+    },
+    "cs50": {
+      "title": "Harvard CS50x",
+      "url": "https://cs50.harvard.edu/x/",
+      "kind": "Free introduction to computer science"
+    },
+    "mslearn": {
+      "title": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/training/",
+      "kind": "Free self-paced tech training"
+    },
+    "kolibri": {
+      "title": "Kolibri by Learning Equality",
+      "url": "https://learningequality.org/kolibri/",
+      "kind": "Offline-first learning platform for low-connectivity schools"
+    }
+  },
+  "opportunities": {
+    "jamb": {
+      "title": "JAMB UTME (university entry)",
+      "url": "https://www.jamb.gov.ng",
+      "kind": "Exam",
+      "why": "Required for admission into Nigerian universities and polytechnics"
+    },
+    "waec": {
+      "title": "WAEC WASSCE",
+      "url": "https://www.waecnigeria.org",
+      "kind": "Exam",
+      "why": "Senior secondary certificate used across West Africa"
+    },
+    "alx": {
+      "title": "ALX Africa programmes",
+      "url": "https://www.alxafrica.com",
+      "kind": "Tech training",
+      "why": "Tech career programmes for young Africans"
+    },
+    "3mtt": {
+      "title": "3MTT (Three Million Technical Talent)",
+      "url": "https://3mtt.nitda.gov.ng",
+      "kind": "Government programme",
+      "why": "Nigerian federal tech-skills programme"
+    },
+    "freecodecamp-cert": {
+      "title": "freeCodeCamp certifications",
+      "url": "https://www.freecodecamp.org/learn",
+      "kind": "Free certificate",
+      "why": "Verified project-based certificates at no cost"
+    }
+  }
+}
